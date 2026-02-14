@@ -5,23 +5,6 @@ This project explores customer demographics, income patterns, and purchasing beh
 
 ---
 
-## 🖼️ Dashboard Preview
-
-![Marketing Dashboard](Excel_Dashboard.png)
-
-> 📌 Note: The Excel file is large and may not preview on GitHub.  
-> Please download the file to interact with the dashboard.
-
----
-
-## 📁 Project Files
-
-- `marketing-data-analysis-excel.xlsx` → Dataset and full dashboard  
-- `Excel_Dashboard.png` → Dashboard preview image  
-- `README.md` → Project documentation  
-
----
-
 ## 🎯 Project Objective
 
 - Analyze customer demographics  
@@ -60,6 +43,17 @@ This project explores customer demographics, income patterns, and purchasing beh
 
 ---
 
-## 👤 Author
+## 📁 Project Files
 
-**Your Name**
+- `marketing-data-analysis-excel.xlsx` → Dataset and full dashboard  
+- `Excel_Dashboard.png` → Dashboard preview image  
+- `README.md` → Project documentation  
+
+---
+
+## 🖼️ Dashboard Preview
+
+![Marketing Dashboard](Excel_Dashboard.png)
+
+> 📌 Note: The Excel file is large and may not preview on GitHub.  
+> Please download the file to interact with the dashboard.
